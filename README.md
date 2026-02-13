@@ -1,4 +1,4 @@
-# Telegramda Matematika Test Boti
+# Telegramda Matematika Test Boti 
 
 Turli qiyinlikdagi 10 ta matematik savol bilan test o'tkazuvchi Telegram bot.
 
